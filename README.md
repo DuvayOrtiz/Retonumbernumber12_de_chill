@@ -58,8 +58,8 @@ str.isupper()
 
 ## Procesar el archivo y extraer:
 
-Cantidad de vocales
-Cantidad de consonantes
-Listado de las 50 palabras que más se repiten
-Listado de destinatarios con cantidad de mensajes recibidos
-Cantidad de mensajes enviados por cada día
+- Cantidad de vocales
+- Cantidad de consonantes
+- Listado de las 50 palabras que más se repiten
+- Listado de destinatarios con cantidad de mensajes recibidos
+- Cantidad de mensajes enviados por cada día
